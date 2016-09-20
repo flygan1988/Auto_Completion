@@ -1,4 +1,4 @@
-Author : Ali Aboussebaba
+Author : Fei Gan
 Source from : http://www.bewebdeveloper.com
 Subject : PHP MVC example
 
